@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PYPopViewHelper'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'PY弹出层帮助工具.'
 
 # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ PY
   s.source           = { :git => 'https://github.com/yunhe-lin/PYPopViewHelper.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '7.0'
+  s.ios.deployment_target = '8.0'
 
   s.source_files = 'PYPopViewHelper/Classes/**/*'
   
