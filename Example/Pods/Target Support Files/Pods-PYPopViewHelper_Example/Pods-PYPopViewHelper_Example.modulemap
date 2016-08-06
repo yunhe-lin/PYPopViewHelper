@@ -1,0 +1,6 @@
+framework module Pods_PYPopViewHelper_Example {
+  umbrella header "Pods-PYPopViewHelper_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

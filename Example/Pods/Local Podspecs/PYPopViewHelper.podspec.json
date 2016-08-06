@@ -1,0 +1,23 @@
+{
+  "name": "PYPopViewHelper",
+  "version": "0.1.0",
+  "summary": "PY弹出层帮助工具.",
+  "description": "PY",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/PYPopViewHelper",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "林云鹤": "1367159949@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/yunhe-lin/PYPopViewHelper.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "PYPopViewHelper/Classes/**/*",
+  "frameworks": "UIKit"
+}

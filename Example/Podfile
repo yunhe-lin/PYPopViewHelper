@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PYPopViewHelper_Example' do
+  pod 'PYPopViewHelper', :path => '../'
+
+  target 'PYPopViewHelper_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

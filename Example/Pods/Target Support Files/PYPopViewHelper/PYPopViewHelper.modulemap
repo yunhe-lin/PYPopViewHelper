@@ -1,0 +1,6 @@
+framework module PYPopViewHelper {
+  umbrella header "PYPopViewHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}

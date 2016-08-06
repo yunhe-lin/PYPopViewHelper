@@ -1,0 +1,16 @@
+PODS:
+  - PYPopViewHelper (0.1.0)
+
+DEPENDENCIES:
+  - PYPopViewHelper (from `../`)
+
+EXTERNAL SOURCES:
+  PYPopViewHelper:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PYPopViewHelper: 81c694852b767ba23906833008dd71ea57e0f341
+
+PODFILE CHECKSUM: 47404429bd8ddfc2e40c24c5136cd07cba83a98f
+
+COCOAPODS: 1.0.1
